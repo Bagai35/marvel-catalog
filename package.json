@@ -50,4 +50,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+},
+"engines": {
+  "node": "16.16.0"
 }
+
